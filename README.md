@@ -7,4 +7,4 @@ githubについて：
 - mainにマージする時はpull requestを出して下さい。
 - やってほしいことの指示はissueに記述します。
 
-test
+- mainがprotectされているのかのチェックです。
