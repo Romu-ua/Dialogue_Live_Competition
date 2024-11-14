@@ -1,0 +1,2 @@
+# Dialogue_Live_Competition
+これは対話ライブコンペ用のリポジトリです。
